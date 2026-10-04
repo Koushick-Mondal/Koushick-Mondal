@@ -1,150 +1,189 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:4c1d95,100:6366f1&height=200&section=header&text=Koushick%20Mondal&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%C2%B7%20Software%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=16" alt="Koushick Mondal header" width="100%" />
-
-<a href="https://github.com/Koushick-Mondal">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=AI+systems+%7C+Full-Stack+apps+%7C+Cybersecurity+products;Co-founder+%40+CyberHiveX+Technologies;B.Tech+CSE+%40+Lovely+Professional+University" alt="Typing SVG" />
-</a>
+<img src="assets/hero.svg" alt="Koushick Mondal — Aspiring AI Engineer, Software Engineer, Full-Stack Developer. AI Engineering Lab." width="100%" />
 
 <br>
 
-![LPU](https://img.shields.io/badge/Lovely%20Professional%20University-4C1D95?style=flat-square)
-![B.Tech CSE](https://img.shields.io/badge/B.Tech%20CSE%20%7C%202nd%20Year-6D28D9?style=flat-square)
-![Location](https://img.shields.io/badge/Kolkata%2C%20West%20Bengal%2C%20India-1E1B4B?style=flat-square)
+<b>Building AI-powered systems, intelligent applications and security-focused products.</b>
 
-<a href="https://koushickmondal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/koushick-mondal"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="mailto:mondalkoushick393@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge" alt="Email" /></a>
-<a href="https://github.com/Koushick-Mondal"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge" alt="GitHub" /></a>
+<sub><code>B.Tech CSE · Lovely Professional University</code> &nbsp; <code>Kolkata, West Bengal, India</code></sub>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Koushick-Mondal&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views" />
+<a href="https://koushickmondal.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/koushick-mondal"><img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://github.com/Koushick-Mondal"><img src="https://img.shields.io/badge/GITHUB-1E1B4B?style=for-the-badge" alt="GitHub" /></a>
+<a href="mailto:mondalkoushick393@gmail.com"><img src="https://img.shields.io/badge/EMAIL-5B21B6?style=for-the-badge" alt="Email" /></a>
 
 </div>
 
 ---
 
-## About Me
+## AI Engineer / Systems Builder
 
-I'm a Computer Science student and aspiring AI / software engineer from Kolkata. I build **AI systems, full-stack applications, cybersecurity products and data-driven solutions**, and I'm the co-founder of **CyberHiveX Technologies**, a cybersecurity-focused startup.
+<div align="center">
+<img src="assets/console.svg" alt="AI systems modules: AI systems, agentic AI, GenAI and LLM, full-stack, AI security, data systems" width="100%" />
+</div>
 
-- **Studying:** B.Tech in Computer Science and Engineering at Lovely Professional University (2nd year)
-- **Building:** AI-powered security tooling, agentic AI platforms, fraud analytics and resilient backend systems
-- **Interests:** Generative AI, AI agents, machine learning, full-stack engineering, cybersecurity, OSINT, digital forensics, threat intelligence, startups and product engineering
-- **Open to:** internship and early-career opportunities in **software engineering, AI/ML, full-stack development and cybersecurity**
+<br>
+
+I build AI-powered systems that connect models, data, software infrastructure and real-world workflows: a fraud-analytics project, a marine-intelligence agent platform, a fault-tolerance testing project and an AI security product. I'm a second-year B.Tech Computer Science student at Lovely Professional University and co-founder of **CyberHiveX Technologies**, and I'm looking for internships and early-career roles in **AI/ML, software engineering, full-stack development and cybersecurity**.
+
+---
+
+## AI Engineering
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><code>01</code> &nbsp;<b>GENERATIVE AI</b><br><sub>Building with LLM APIs and generative AI workflows. Completed a Udemy course on the OpenAI API, ChatGPT, Whisper and DALL·E.</sub></td>
+    <td width="50%" valign="top"><code>02</code> &nbsp;<b>LLM APPLICATIONS</b><br><sub>Applications built around language models, including Infinity AI, a personal AI companion concept for career guidance and productivity.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><code>03</code> &nbsp;<b>AGENTIC AI</b><br><sub>Agent-based architectures and collaborative reasoning with LangGraph. ORCA explores this through a proposed multi-agent design.</sub></td>
+    <td width="50%" valign="top"><code>04</code> &nbsp;<b>APPLIED MACHINE LEARNING</b><br><sub>Fraud detection and anomaly-oriented analytics in Fraud AI, built with Python, DuckDB and Streamlit.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><code>05</code> &nbsp;<b>AI SECURITY</b><br><sub>Threat intelligence, OSINT and security automation through Rakshak AI at CyberHiveX Technologies.</sub></td>
+    <td width="50%" valign="top"><code>06</code> &nbsp;<b>DATA &amp; ANALYTICS</b><br><sub>Data analytics with Python, DuckDB and Power BI, backed by PostgreSQL, MySQL and MongoDB.</sub></td>
+  </tr>
+</table>
+
+---
+
+## Selected Engineering Projects
+
+<a href="https://github.com/Koushick-Mondal/CyberHiveX"><img src="assets/project-01.svg" alt="01 // AI SECURITY — CyberHiveX Technologies / Rakshak AI" width="100%" /></a>
+
+A cybersecurity-focused startup I co-founded. Rakshak AI is its AI-powered security platform focused on threat intelligence and security automation. &nbsp;**Repository:** [Koushick-Mondal/CyberHiveX](https://github.com/Koushick-Mondal/CyberHiveX)
+
+<details open>
+<summary><b>Case study</b></summary>
+
+<br>
+
+| | |
+|:--|:--|
+| **Problem** | Enterprise and MSME security teams need timely threat intelligence and automated security workflows. |
+| **Solution** | An AI-powered platform bringing threat intelligence, automation and security investigation capabilities together. |
+| **Engineering focus** | AI-assisted security, security automation, product development |
+| **Technology / domain** | AI security · threat intelligence · OSINT · digital forensics · red teaming · incident response |
+| **Status** | In active development; company website under development |
+
+</details>
+
+<br>
+
+<img src="assets/project-02.svg" alt="02 // AGENTIC AI and marine intelligence — ORCA, Marine EcOsystem Reasoning with Collaborative Agents" width="100%" />
+
+An agentic AI-powered marine intelligence platform/concept combining satellite Earth observation, oceanographic, weather and geospatial data into conversational, evidence-based insights.
+
+<details open>
+<summary><b>Case study</b></summary>
+
+<br>
+
+| | |
+|:--|:--|
+| **Problem** | Fishermen, researchers, coastal authorities, disaster agencies and maritime operators need evidence-based marine insights, often without continuous connectivity offshore. |
+| **Current project concept** | Potential Fishing Zone insights · route safety · marine risk · weather and sea conditions · hazard alerts · geospatial intelligence · conversational AI · offline-first mobile concept using preloaded data |
+| **Engineering focus** | Multi-agent reasoning, geospatial data, offline-first mobile design |
+| **Proposed Architecture** | Next.js · React Native · FastAPI · LangGraph · Bhashini · Leaflet / Mapbox · FAISS / pgvector · PostGIS / H3 · Redis |
+| **Status** | In development as a concept/platform. The proposed architecture is a design direction; implementation of individual components is not claimed. |
+
+</details>
+
+<br>
+
+<a href="https://github.com/Koushick-Mondal/fraud-ai"><img src="assets/project-03.svg" alt="03 // AI and FinTech — Fraud AI, UPI fraud detection and merchant analytics" width="100%" /></a>
+
+An AI-powered UPI fraud detection and merchant analytics project. &nbsp;**Repository:** [Koushick-Mondal/fraud-ai](https://github.com/Koushick-Mondal/fraud-ai)
+
+<details open>
+<summary><b>Case study</b></summary>
+
+<br>
+
+| | |
+|:--|:--|
+| **Problem** | Digital payment ecosystems need ways to surface fraud rings, synthetic identities and high-risk merchants. |
+| **Solution** | Analytics and detection workflows: fraud ring analysis, synthetic identity detection, high-risk merchant identification, KYC analytics, chargeback analytics and merchant intelligence. |
+| **Engineering focus** | Applied ML, analytical data modelling, interactive dashboards |
+| **Technology** | Python · Streamlit · DuckDB · AI/ML · Data Analytics |
+| **Status** | Public repository available |
+
+</details>
+
+<br>
+
+<img src="assets/project-04.svg" alt="04 // DISTRIBUTED SYSTEMS — Vault, resilience and data-integrity project" width="100%" />
+
+A distributed-systems / resilience project built around multi-node architecture, self-healing and SHA-256 integrity verification.
+
+<details>
+<summary><b>Case study</b></summary>
+
+<br>
+
+| | |
+|:--|:--|
+| **Problem** | Data must stay available and verifiably intact through node failures and shutdowns. |
+| **Solution** | A multi-node architecture orchestrated with Docker Compose and backed by PostgreSQL, with self-healing / fault recovery and SHA-256 integrity verification. |
+| **Engineering focus** | Fault tolerance, integrity verification, shutdown and failure testing |
+| **Technology** | Docker · Docker Compose · PostgreSQL |
+| **Status** | Resilience-testing project; not presented as production-scale infrastructure |
+
+</details>
+
+<br>
+
+<img src="assets/project-05.svg" alt="05 // EDTECH and PRODUCT ENGINEERING — GrowBharat, Where Students Build Their Future" width="100%" />
+
+A student mentorship and career guidance platform aimed primarily at early-year college students.
+
+<details>
+<summary><b>Case study</b></summary>
+
+<br>
+
+| | |
+|:--|:--|
+| **Problem** | Early-year students often lack structured direction on skills, courses and career paths. |
+| **Solution** | Career guidance, mentorship and course recommendations across Web Development, AI/ML, Cybersecurity, App Development, UI/UX, Data Science, Competitive Programming, Freelancing and Startup guidance. |
+| **Engineering focus** | Product thinking and platform design for students |
+| **Status** | In development |
+
+</details>
 
 ---
 
 ## Tech Stack
 
-| Category | Technologies |
-|:--|:--|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-4C1D95?style=flat-square) ![C](https://img.shields.io/badge/C-5B21B6?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-6D28D9?style=flat-square) ![Java](https://img.shields.io/badge/Java-7C3AED?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-4338CA?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-4F46E5?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-6366F1?style=flat-square) |
-| **Frontend** | ![HTML](https://img.shields.io/badge/HTML-4C1D95?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-5B21B6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-6D28D9?style=flat-square) ![React.js](https://img.shields.io/badge/React.js-4338CA?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-4F46E5?style=flat-square) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-4C1D95?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-6D28D9?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-4F46E5?style=flat-square) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4C1D95?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-5B21B6?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6D28D9?style=flat-square) ![DuckDB](https://img.shields.io/badge/DuckDB-4338CA?style=flat-square) |
-| **AI / ML / GenAI** | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4C1D95?style=flat-square) ![Generative AI](https://img.shields.io/badge/Generative%20AI-5B21B6?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-6D28D9?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-4338CA?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-4F46E5?style=flat-square) ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-6366F1?style=flat-square) |
-| **Cybersecurity** | ![OSINT](https://img.shields.io/badge/OSINT-312E81?style=flat-square) ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-3730A3?style=flat-square) ![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-4338CA?style=flat-square) ![Red Teaming](https://img.shields.io/badge/Red%20Teaming-4C1D95?style=flat-square) ![Incident Response](https://img.shields.io/badge/Incident%20Response-5B21B6?style=flat-square) |
-| **Cloud / DevOps** | ![Docker](https://img.shields.io/badge/Docker-4C1D95?style=flat-square) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-5B21B6?style=flat-square) ![Unix/Linux](https://img.shields.io/badge/Unix%2FLinux-6D28D9?style=flat-square) ![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-4338CA?style=flat-square) ![AWS](https://img.shields.io/badge/AWS%20(foundations)-4F46E5?style=flat-square) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-4C1D95?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=flat-square) ![VS Code](https://img.shields.io/badge/VS%20Code-6D28D9?style=flat-square) ![Postman](https://img.shields.io/badge/Postman-7C3AED?style=flat-square) ![Figma](https://img.shields.io/badge/Figma-4338CA?style=flat-square) ![Power BI](https://img.shields.io/badge/Power%20BI-4F46E5?style=flat-square) ![MS Office](https://img.shields.io/badge/MS%20Office-6366F1?style=flat-square) |
+<table>
+  <tr>
+    <td width="50%" valign="top"><b><code>LANGUAGES</code></b><br><b>Python</b> · C · C++ · Java · JavaScript · <b>TypeScript</b> · PHP</td>
+    <td width="50%" valign="top"><b><code>AI / ML</code></b><br>AI · ML · <b>GenAI</b> · <b>LLMs</b> · AI Agents · <b>OpenAI API</b> · <b>LangGraph</b> · Data Analytics</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b><code>FRONTEND</code></b><br>HTML · CSS · React.js · <b>Next.js</b></td>
+    <td width="50%" valign="top"><b><code>CYBERSECURITY</code></b><br>Cybersecurity · OSINT · Digital Forensics · Threat Intelligence · Red Teaming · Incident Response</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b><code>BACKEND</code></b><br>Node.js · <b>FastAPI</b> · PHP</td>
+    <td width="50%" valign="top"><b><code>TOOLS</code></b><br>Git · GitHub · VS Code · Postman · Figma · Power BI · MS Office · Unix/Linux · Docker · Docker Compose</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b><code>DATABASES</code></b><br>MySQL · MongoDB · PostgreSQL · DuckDB</td>
+    <td width="50%" valign="top"><b><code>CLOUD</code></b><br>Oracle Cloud Infrastructure · AWS Cloud Foundations</td>
+  </tr>
+</table>
 
 ---
 
-## AI / ML Expertise
+## Engineering Journey
 
-| Domain | Technologies / Focus | Description |
-|:--|:--|:--|
-| **Generative AI and LLMs** | LLMs, OpenAI API | Building with LLM APIs and completed an applied Udemy course covering the OpenAI API, ChatGPT, Whisper and DALL·E. |
-| **AI Agents** | LangGraph, agentic design | Designing agent-based systems, as in the ORCA marine intelligence platform. |
-| **Applied ML and Data Analytics** | Python, DuckDB, Streamlit | Fraud detection and merchant analytics in Fraud AI: fraud rings, synthetic identities, KYC and chargeback analytics. |
-| **AI for Security** | Threat intelligence, OSINT, security automation | Rakshak AI at CyberHiveX Technologies, an AI-powered security platform for threat intelligence and automation. |
-
----
-
-## Featured Projects
-
-<details>
-<summary><b>CyberHiveX Technologies / Rakshak AI</b> &mdash; AI-powered security platform (co-founder)</summary>
-
-<br>
-
-| Aspect | Details |
-|:--|:--|
-| **Overview** | CyberHiveX Technologies is a cybersecurity-focused startup I co-founded. Rakshak AI is its AI-powered security platform for threat intelligence and security automation. |
-| **Problem** | Enterprise and MSME security teams need timely threat intelligence and automated security workflows. |
-| **Solution** | An AI-powered platform combining threat intelligence, automation and security investigation capabilities. |
-| **Key capabilities** | Threat intelligence, security automation, OSINT, digital forensics, red teaming, incident response |
-| **Engineering focus** | AI-assisted security, product development, automation of security operations |
-| **Purpose** | Make AI-driven security accessible to enterprises and MSMEs |
-| **Repository** | [Koushick-Mondal/CyberHiveX](https://github.com/Koushick-Mondal/CyberHiveX) |
-
-</details>
-
-<details>
-<summary><b>ORCA</b> &mdash; Marine EcOsystem Reasoning with Collaborative Agents</summary>
-
-<br>
-
-| Aspect | Details |
-|:--|:--|
-| **Overview** | An agentic AI-powered marine intelligence platform that combines satellite Earth observation, oceanographic, weather and geospatial data. |
-| **Problem** | Fishermen, researchers, coastal authorities, disaster agencies and maritime operators need reliable, evidence-based marine insights, often without continuous connectivity offshore. |
-| **Solution** | A conversational intelligence layer on top of marine and geospatial data, with an offline mobile application concept that uses preloaded data so it stays useful without internet or SIM connectivity. |
-| **Key capabilities** | Potential Fishing Zone insights, route safety, marine risk assessment, weather and sea-condition insights, hazard alerts, geospatial intelligence, conversational marine intelligence |
-| **Proposed architecture** | Next.js, React Native, FastAPI, LangGraph, Bhashini, Leaflet / Mapbox, FAISS / pgvector, PostGIS / H3, Redis |
-| **Engineering focus** | Multi-agent reasoning, geospatial data, offline-first mobile design |
-| **Note** | The technologies above are the planned / proposed direction, not a statement that each component is already implemented. |
-
-</details>
-
-<details>
-<summary><b>Fraud AI</b> &mdash; UPI fraud detection and merchant analytics</summary>
-
-<br>
-
-| Aspect | Details |
-|:--|:--|
-| **Overview** | An AI-powered project for UPI fraud detection and merchant analytics. |
-| **Problem** | Digital payment ecosystems need ways to spot fraud rings, synthetic identities and high-risk merchants. |
-| **Solution** | Analytics and detection workflows built around payment, KYC and chargeback data. |
-| **Tech stack** | Python, Streamlit, DuckDB, AI/ML, data analytics |
-| **Key capabilities** | UPI fraud detection, fraud ring analysis, synthetic identity detection, high-risk merchant identification, KYC analytics, chargeback analytics, merchant intelligence |
-| **Engineering focus** | Applied ML, analytical data modelling, interactive dashboards |
-| **Repository** | [Koushick-Mondal/fraud-ai](https://github.com/Koushick-Mondal/fraud-ai) |
-
-</details>
-
-<details>
-<summary><b>Vault</b> &mdash; Resilient multi-node data infrastructure</summary>
-
-<br>
-
-| Aspect | Details |
-|:--|:--|
-| **Overview** | A distributed-systems project focused on data resilience and integrity. |
-| **Problem** | Data needs to stay available and verifiably intact when nodes fail or shut down. |
-| **Solution** | A multi-node architecture orchestrated with Docker Compose and backed by PostgreSQL, with self-healing behaviour and SHA-256 integrity verification. |
-| **Tech stack** | Docker, Docker Compose, PostgreSQL |
-| **Key capabilities** | Multi-node architecture, self-healing / fault recovery, SHA-256 integrity verification, shutdown and failure testing |
-| **Engineering focus** | Fault tolerance, distributed data resilience, integrity verification |
-
-</details>
-
-<details>
-<summary><b>GrowBharat</b> &mdash; Where Students Build Their Future</summary>
-
-<br>
-
-| Aspect | Details |
-|:--|:--|
-| **Overview** | A student mentorship and career guidance platform aimed primarily at early-year college students. |
-| **Purpose** | Help students find direction early and make informed decisions about skills, courses and careers. |
-| **Key capabilities** | Career guidance, student mentorship, course recommendations |
-| **Focus areas** | Web Development, AI/ML, Cybersecurity, App Development, UI/UX, Data Science, Competitive Programming, Freelancing, Startup guidance |
-| **Engineering focus** | Product thinking, platform design for students |
-
-</details>
+<div align="center">
+<img src="assets/journey.svg" alt="Engineering journey: Education, Hackathons, Software Engineering, AI/ML, Cybersecurity, Startup and Product Building, AI Engineering" width="100%" />
+</div>
 
 ---
 
@@ -156,7 +195,9 @@ I'm a Computer Science student and aspiring AI / software engineer from Kolkata.
 | **Full Stack Developer Intern** | Prashant Kumar LTD (Remote) | Full-stack development internship |
 | **Official Ambassador** | ICPC Amritapuri Regionals 2026 | Institution-level ambassador |
 
-**Student community roles**
+## Community & Leadership
+
+<sub>Student community and campus roles.</sub>
 
 | Programme | Role |
 |:--|:--|
@@ -169,23 +210,25 @@ I'm a Computer Science student and aspiring AI / software engineer from Kolkata.
 
 ---
 
-## Achievements
+## Engineering Milestones
 
-<div align="center">
-
-| Recognition | Achievement |
-|:--|:--|
-| **Smart India Hackathon 2024** | Finalist, Team N.E.S.T., Problem Statement 1545 (non-electrical sun-tracking device) |
-| **SIH 2024 (internal competition)** | 1st Runner-Up |
-| **Naukri Campus Young Turks 2025** | 99.51 percentile, AIR 2471 |
-| **AINCAT 2026** | Qualified, AIR 2239 |
-| **CodeFest'25 (IICPC)** | Prelims, Top 2K |
-| **Paytm Hackathon 2026** | Finale shortlist |
-| **Tata Imagination Challenge** | Round 2 |
-| **Board2Code** | Top 5 |
-| **Escape Da Vinci 2026** | Offline finale |
-
-</div>
+<table>
+  <tr>
+    <td width="33%" valign="top"><b>Smart India Hackathon 2024</b><br><sub>Finalist · Team N.E.S.T. · PS 1545, non-electrical sun-tracking device</sub></td>
+    <td width="33%" valign="top"><b>SIH 2024, internal competition</b><br><sub>1st Runner-Up</sub></td>
+    <td width="33%" valign="top"><b>Naukri Campus Young Turks 2025</b><br><sub>99.51 percentile · AIR 2471</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><b>AINCAT 2026</b><br><sub>Qualified · AIR 2239</sub></td>
+    <td width="33%" valign="top"><b>CodeFest'25 (IICPC)</b><br><sub>Prelims · Top 2K</sub></td>
+    <td width="33%" valign="top"><b>Paytm Hackathon 2026</b><br><sub>Finale shortlist</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><b>Tata Imagination Challenge</b><br><sub>Round 2</sub></td>
+    <td width="33%" valign="top"><b>Board2Code</b><br><sub>Top 5</sub></td>
+    <td width="33%" valign="top"><b>Escape Da Vinci 2026</b><br><sub>Offline finale</sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -195,7 +238,7 @@ I'm a Computer Science student and aspiring AI / software engineer from Kolkata.
 |:--|:--|
 | **Oracle** | Oracle Cloud Infrastructure 2025 Certified Foundations Associate |
 
-**Courses and training**
+## Courses & Training
 
 | Provider | Course |
 |:--|:--|
@@ -208,8 +251,8 @@ I'm a Computer Science student and aspiring AI / software engineer from Kolkata.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Koushick-Mondal&show_icons=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117&border_color=312E81" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koushick-Mondal&layout=compact&langs_count=8&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117&border_color=312E81" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Koushick-Mondal&show_icons=true&title_color=A78BFA&icon_color=22D3EE&text_color=C4B5FD&bg_color=0D1117&border_color=312E81" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koushick-Mondal&layout=compact&langs_count=8&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117&border_color=312E81" alt="Top languages" />
 
 <br>
 
@@ -217,48 +260,41 @@ I'm a Computer Science student and aspiring AI / software engineer from Kolkata.
 
 </div>
 
----
-
 ## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Koushick-Mondal&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=4C1D95&hide_border=true" alt="Contribution activity graph" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Koushick-Mondal/Koushick-Mondal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Koushick-Mondal/Koushick-Mondal/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Koushick-Mondal/Koushick-Mondal/output/github-snake.svg" />
+</picture>
 
-</div>
-
-## Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Koushick-Mondal/Koushick-Mondal/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Koushick-Mondal/Koushick-Mondal/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Koushick-Mondal/Koushick-Mondal/output/github-snake.svg" />
-  </picture>
 </div>
 
 ---
 
-## Current Focus
+## Currently Building
 
-```yaml
-learning:
-  - Artificial Intelligence and Machine Learning
-  - Generative AI and AI agents
-  - Software engineering and full-stack development
-building:
-  - CyberHiveX Technologies / Rakshak AI
-  - ORCA (agentic marine intelligence)
-  - Infinity AI (personal AI companion for career guidance and productivity)
-  - GrowBharat (student mentorship platform)
-exploring:
-  - Threat intelligence, OSINT and digital forensics
-  - Security automation and incident response
-open_to:
-  - Software engineering internships
-  - AI/ML internships
-  - Full-stack development roles
-  - Cybersecurity internships and early-career roles
+```text
+CURRENTLY BUILDING
+> AI systems
+> Agentic workflows
+> Cybersecurity products
+> Full-stack applications
+
+CURRENTLY EXPLORING
+> Generative AI
+> LLM applications
+> AI agents
+> AI security
+> Threat intelligence
+
+OPEN TO
+> AI/ML internships
+> Software engineering opportunities
+> Full-stack opportunities
+> Cybersecurity opportunities
 ```
 
 ---
@@ -267,19 +303,15 @@ open_to:
 
 <div align="center">
 
-<a href="https://github.com/Koushick-Mondal"><img src="https://img.shields.io/badge/GitHub-Koushick--Mondal-312E81?style=for-the-badge" alt="GitHub" /></a>
+<a href="https://github.com/Koushick-Mondal"><img src="https://img.shields.io/badge/GitHub-Koushick--Mondal-1E1B4B?style=for-the-badge" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/koushick-mondal"><img src="https://img.shields.io/badge/LinkedIn-koushick--mondal-4F46E5?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="https://koushickmondal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-koushickmondal.vercel.app-7C3AED?style=for-the-badge" alt="Portfolio" /></a>
-<a href="mailto:mondalkoushick393@gmail.com"><img src="https://img.shields.io/badge/Email-mondalkoushick393%40gmail.com-6D28D9?style=for-the-badge" alt="Email" /></a>
+<a href="https://koushickmondal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-koushickmondal.vercel.app-6D28D9?style=for-the-badge" alt="Portfolio" /></a>
+<a href="mailto:mondalkoushick393@gmail.com"><img src="https://img.shields.io/badge/Email-mondalkoushick393%40gmail.com-5B21B6?style=for-the-badge" alt="Email" /></a>
 
-</div>
+<br><br>
 
----
+<sub><i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i></sub>
 
-<div align="center">
-
-<sub><i>"Simplicity is prerequisite for reliability." &mdash; Edsger W. Dijkstra</i></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:4c1d95,100:0f0c29&height=100&section=footer" alt="Footer" width="100%" />
+<img src="assets/footer.svg" alt="" width="100%" />
 
 </div>
