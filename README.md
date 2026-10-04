@@ -10,7 +10,6 @@
 
 ![LPU](https://img.shields.io/badge/Lovely%20Professional%20University-4C1D95?style=flat-square)
 ![B.Tech CSE](https://img.shields.io/badge/B.Tech%20CSE%20%7C%202nd%20Year-6D28D9?style=flat-square)
-![SGPA](https://img.shields.io/badge/SGPA-7.16%20(Sem%201)%20%7C%208.08%20(Sem%202)-4338CA?style=flat-square)
 ![Location](https://img.shields.io/badge/Kolkata%2C%20West%20Bengal%2C%20India-1E1B4B?style=flat-square)
 
 <a href="https://koushickmondal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge" alt="Portfolio" /></a>
