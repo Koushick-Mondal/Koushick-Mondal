@@ -228,10 +228,7 @@ I'm a Computer Science student and aspiring AI / software engineer from Kolkata.
 
 </div>
 
-<!--
-CONTRIBUTION SNAKE
-Uncomment this block only after the "Generate Snake" workflow has run once
-and the `output` branch contains github-snake.svg and github-snake-dark.svg.
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -240,7 +237,6 @@ and the `output` branch contains github-snake.svg and github-snake-dark.svg.
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/Koushick-Mondal/Koushick-Mondal/output/github-snake.svg" />
   </picture>
 </div>
--->
 
 ---
 
